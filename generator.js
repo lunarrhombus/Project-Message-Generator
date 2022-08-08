@@ -24,14 +24,15 @@ tarot_card = {
     what_to_do: ['Be careful.', 'Buy a lottery ticket.',
     'Can not do anything']
 }
-
+function make_for(){
 let user_future = [];
 for (let prop in tarot_card){
 
-
 }
+}
+function output() {
 
-function output(array) {
-
-    console.log(array)
+    let name = 'mohamed'
+    document.getElementById("stuff").innerHTML = name;
+    
 }

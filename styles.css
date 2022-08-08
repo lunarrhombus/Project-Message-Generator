@@ -1,11 +1,11 @@
 h1 {
-    color: #085248;
+    color: #000000;
     font-size: 100px;
     padding: 50px;
     text-align: center;
 }
 h2 {
-    color: #dd7d0f;
+    color: #000000;
 
     padding: 5px;
     text-align: center;
@@ -13,6 +13,12 @@ h2 {
 body {
     padding: 5px;
     text-align: center;
+    background-image: url("one.jpg");
+    background-size: cover;
+}
+p {
+    font-size: 25px;
+    padding: 50px;
 }
 #BB {
     padding: 250px;
