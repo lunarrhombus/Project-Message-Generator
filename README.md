@@ -6,5 +6,6 @@ This project will generate and display random messages to users.
 
 ## 2. Structure:
 
-1. Front-End: HTML, CSS, and JavaScript.
+1. JavaScript
+
 
