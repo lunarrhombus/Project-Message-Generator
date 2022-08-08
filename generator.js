@@ -13,3 +13,8 @@ function tarot_card(){
 }
 
 let user_future = [];
+
+function output(array) {
+
+    console.log(array)
+}

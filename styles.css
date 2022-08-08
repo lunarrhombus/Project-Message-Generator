@@ -1,12 +1,16 @@
 h1 {
     color: #16ceb5;
 
-    padding: 25px;
+    padding: 50px;
     text-align: center;
 }
 h2 {
     color: #dd7d0f;
 
-    padding: 25px;
+    padding: 50px;
+    text-align: center;
+}
+body {
+    padding: 250px;
     text-align: center;
 }
