@@ -1,16 +1,22 @@
 h1 {
-    color: #16ceb5;
-
+    color: #085248;
+    font-size: 100px;
     padding: 50px;
     text-align: center;
 }
 h2 {
     color: #dd7d0f;
 
-    padding: 50px;
+    padding: 5px;
     text-align: center;
 }
 body {
-    padding: 250px;
+    padding: 5px;
     text-align: center;
+}
+#BB {
+    padding: 250px;
+    vertical-align: bottom;
+    text-align: right;
+
 }
