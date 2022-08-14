@@ -1,7 +1,7 @@
 h1 {
     color: #000000;
     font-size: 100px;
-    padding: 50px;
+    padding: 5px;
     text-align: center;
 }
 h2 {
@@ -18,10 +18,10 @@ body {
 }
 p {
     font-size: 25px;
-    padding: 50px;
+    padding: 5px;
 }
 #BB {
-    padding: 250px;
+    padding: 25px;
     vertical-align: bottom;
     text-align: right;
 
@@ -33,7 +33,7 @@ p {
 }
 #stuff {
     font-size: 100px;
-    
+    color: rgb(65, 13, 255);
 
 
 }

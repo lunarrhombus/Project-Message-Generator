@@ -1,5 +1,5 @@
 function random_number_index(){
-    Number = Math.floor(Math.random() * 21);
+    Number = Math.floor(Math.random() * 22);
 
     return Number;
 }
@@ -29,6 +29,6 @@ function output() {
     img.src = imgarr[result]; 
     
     var src = document.getElementById("x"); 
-    src.appendChild(img); 
-    
+    src.appendChild(img);
+    console.log(img)
 }
