@@ -16,7 +16,7 @@ function random_number_index() {
     'The Moon', 'The Sun', 'Judgment', 
     'The World'];
     
-    imgarr = ['/Images/0-The-Fool.jpg', '/Images/1-The-Magician.jpg', '/Images/2-The-High-Priestess.jpg', '/Images/3-The-Empress.jpg', '/Images/4-The-Emperor.jpg', '/Images/5-The-Hierophant.jpg', '/Images/6-The-Lovers.jpg', '/Images/7-The-Chariot.jpg', '/Images/8-Strength.jpg' , '/Images/9-The-Hermit.jpg', '/Images/10-The-Wheel-of-Fortune.jpg', '/Images/11-Justice.jpg', '/Images/12-The-Hanged-Man.jpg', '/Images/13-Death.jpg', '/Images/14-Temperance.jpg', '/Images/15-The-Devil.jpg', '/Images/16-The-Tower.jpg', '/Images/17-The-Star.jpg', '/Images/18-The-Moon.jpg', '/Images/19-The-Sun.jpg', '/Images/20-Judgment.jpg', '/Images/21-The-World.jpg']
+    imgarr = ['/Images/0-The-Fool.JPG', '/Images/1-The-Magician.JPG', '/Images/2-The-High-Priestess.JPG', '/Images/3-The-Empress.JPG', '/Images/4-The-Emperor.JPG', '/Images/5-The-Hierophant.JPG', '/Images/6-The-Lovers.JPG', '/Images/7-The-Chariot.JPG', '/Images/8-Strength.JPG' , '/Images/9-The-Hermit.JPG', '/Images/10-The-Wheel-of-Fortune.JPG', '/Images/11-Justice.JPG', '/Images/12-The-Hanged-Man.JPG', '/Images/13-Death.JPG', '/Images/14-Temperance.JPG', '/Images/15-The-Devil.JPG', '/Images/16-The-Tower.JPG', '/Images/17-The-Star.JPG', '/Images/18-The-Moon.JPG', '/Images/19-The-Sun.JPG', '/Images/20-Judgment.JPG', '/Images/21-The-World.JPG']
 
 
     leger = [];
